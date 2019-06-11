@@ -2,7 +2,7 @@
 
 # The Azure Environment Setup Guide
 
-Welcome to the Disrupt AI Hackathon!
+Welcome to the HackByte Hackathon!
 
 This guide will show you how to get your team access to your Azure credits for
 the hackathon
