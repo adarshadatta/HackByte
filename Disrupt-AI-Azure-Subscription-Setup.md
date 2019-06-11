@@ -9,7 +9,7 @@ the hackathon
 
 -   Each team receives \$150 in Azure credits
 
--   **\*Only one**\* team member should complete the steps in this guide to ensure only one Azure subscription gets created per team. All other team members will be added to the subscription. The conference code will be provided once the hackathon kicks off on April 3rd. 
+-   **\*Only one**\* team member should complete the steps in this guide to ensure only one Azure subscription gets created per team. All other team members will be added to the subscription. The conference code will be provided once the hackathon kicks off on June 22nd 2019. 
 
 -   All team members using Azure will require a Microsoft account
 
